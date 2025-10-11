@@ -1,0 +1,26 @@
+name: Translation request
+description: Update or create a translation within Termix
+labels: ["translation"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: Brief, descriptive title for the translation
+      placeholder: "Brief description of the translation"
+    validations:
+      required: true
+  - type: textarea
+    id: translation-description
+    attributes:
+      label: The Translation Request
+      description: Describe the translation request in detail. Include as much information as possible, with screenshots if applicable.
+      placeholder: "Describe the translation request..."
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Any other context about the translation
+      placeholder: "Add any other context about the translation here..."
