@@ -26,7 +26,8 @@ body:
         - App - Linux
         - App - iOS
         - App - Android
-        - Doccumentation
+        - Documentation
+        - N/A
     validations:
       required: true
   - type: dropdown
@@ -37,6 +38,7 @@ body:
       options:
         - Docker
         - Manual Build
+        - N/A
     validations:
       required: true
   - type: input
