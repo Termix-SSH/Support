@@ -13,3 +13,6 @@ channel, however, response times may be longer.
 
 If you'd like to work on an issue, please tag `@LukeGus` in a comment first to get approval before opening a PR on the main repository.
 This helps ensure you’re aware of any specific rules, guidelines, or design considerations that may be in mind for that feature.
+
+# License
+Distributed under the Apache License Version 2.0. See LICENSE for more information.
