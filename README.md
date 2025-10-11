@@ -1,3 +1,9 @@
+# Repo Stats
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Termix-SSH/Support?style=flat&label=Stars)
+![GitHub forks](https://img.shields.io/github/forks/Termix-SSH/Support?style=flat&label=Forks)
+<a href="https://discord.gg/jVQGdvHDrf"><img alt="Discord" src="https://img.shields.io/discord/1347374268253470720"></a>
+
 # Overview
 
 This repository is specifically for reporting all bugs/feature requests related to the Termix project. 
