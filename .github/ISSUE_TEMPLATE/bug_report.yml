@@ -26,6 +26,7 @@ body:
         - App - Linux
         - App - iOS
         - App - Android
+        - Doccumentation
     validations:
       required: true
   - type: dropdown
