@@ -4,6 +4,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/Termix-SSH/Support?style=flat&label=Forks)
 <a href="https://discord.gg/jVQGdvHDrf"><img alt="Discord" src="https://img.shields.io/discord/1347374268253470720"></a>
 
+If you would like, you can support the project here!\
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-LukeGus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/LukeGus)
+
 # Overview
 
 This repository is specifically for reporting all bugs/feature requests related to the Termix project. 
