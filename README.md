@@ -10,7 +10,7 @@ If you would like, you can support the project here!\
 # Overview
 
 This repository is specifically for reporting all bugs/feature requests related to the Termix project. 
-It encompasses the web, desktop, and mobile versions in one central place. The main Termix repo is located [here](https://github.com/LukeGus/Termix).
+It encompasses the web, desktop, and mobile versions in one central place. The main Termix repo is located [here](https://github.com/Termix-SSH/Termix).
 
 # Support
 
