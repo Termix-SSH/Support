@@ -2,6 +2,7 @@ name: Feature request
 description: Suggest an idea for Termix
 title: "[FEATURE]"
 labels: [enhancement]
+type: "Feature"
 assignees: []
 body:
   - type: input
