@@ -13,6 +13,18 @@ body:
       placeholder: "Brief description of the feature"
     validations:
       required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: What platform is this related to?
+      options:
+        - Web-app
+        - Desktop app (Windows, Linux, and macOS)
+        - Mobile app (iOS, Android)
+        - N/A
+    validations:
+      required: true
   - type: textarea
     id: related-issue
     attributes:
