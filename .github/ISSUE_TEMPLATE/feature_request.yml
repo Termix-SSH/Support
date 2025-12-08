@@ -5,6 +5,11 @@ labels: [enhancement]
 type: "Feature"
 assignees: []
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out the feature request! Know that even if a contributor does not respond to your issue, that does not mean we did not see the request. We will typically only respond once the feature is implemented or if we have a temporary solution.
+
   - type: input
     id: title
     attributes:
@@ -13,6 +18,7 @@ body:
       placeholder: "Brief description of the feature"
     validations:
       required: true
+
   - type: dropdown
     id: platform
     attributes:
@@ -25,6 +31,7 @@ body:
         - N/A
     validations:
       required: true
+      
   - type: textarea
     id: related-issue
     attributes:
@@ -33,6 +40,7 @@ body:
       placeholder: "Describe what problem this feature would solve..."
     validations:
       required: true
+      
   - type: textarea
     id: solution
     attributes:
@@ -41,6 +49,7 @@ body:
       placeholder: "Describe how you envision this feature working..."
     validations:
       required: true
+      
   - type: textarea
     id: additional-context
     attributes:
