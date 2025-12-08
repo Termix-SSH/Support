@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug! Know that even if a contributor does not respond to your issue, that does not mean we did not see the request. We will typically only respond once the bug is resolved or if we have a temporary solution.
+        Thanks for taking the time to fill out this bug report! Know that even if a contributor does not respond to your issue, that does not mean we did not see the request. We will typically only respond once the bug is resolved or if we have a temporary solution.
 
   - type: input
     id: title
