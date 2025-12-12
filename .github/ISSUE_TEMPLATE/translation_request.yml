@@ -1,6 +1,7 @@
 name: Translation request
 description: Update or create a translation within Termix
 labels: ["translation"]
+projects: ["Termix-SSH/2"]
 body:
   - type: markdown
     attributes:
