@@ -2,6 +2,7 @@ name: Feature request
 description: Suggest an idea for Termix
 title: "[FEATURE]"
 labels: [enhancement]
+projects: ["Termix-SSH/2"]
 type: "Feature"
 assignees: []
 body:
