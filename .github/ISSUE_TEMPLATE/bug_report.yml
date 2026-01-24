@@ -47,6 +47,7 @@ body:
       options:
         - Docker
         - Manual Build
+        - Proxmox (Community Scripts)
         - N/A
     validations:
       required: true
