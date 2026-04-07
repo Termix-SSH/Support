@@ -16,6 +16,7 @@ It encompasses the web, desktop, and mobile versions in one central place. The m
 
 See [Projects](https://github.com/orgs/Termix-SSH/projects/2) for all planned features. If you are looking to contribute, see below.
 
+
 # Sponsors
 
 <p align="left">
@@ -37,6 +38,10 @@ See [Projects](https://github.com/orgs/Termix-SSH/projects/2) for all planned fe
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tailscale.com/">
     <img src="https://drive.google.com/uc?export=view&id=1lIxkJuX6M23bW-2FElhT0rQieTrzaVSL" height="50" alt="TailScale">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://akamai.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Akamai_logo.svg" height="50" alt="Akamai">
   </a>
 </p>
 
