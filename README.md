@@ -16,7 +16,6 @@ It encompasses the web, desktop, and mobile versions in one central place. The m
 
 See [Projects](https://github.com/orgs/Termix-SSH/projects/2) for all planned features. If you are looking to contribute, see below.
 
-
 # Sponsors
 
 <p align="left">
@@ -42,6 +41,10 @@ See [Projects](https://github.com/orgs/Termix-SSH/projects/2) for all planned fe
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://akamai.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Akamai_logo.svg" height="50" alt="Akamai">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/960px-Amazon_Web_Services_Logo.svg.png" height="50" alt="AWS">
   </a>
 </p>
 
