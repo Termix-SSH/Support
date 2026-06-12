@@ -24,7 +24,7 @@ This repository is specifically for reporting all bugs and feature requests rela
 
 ## Planned Features
 
-See [Projects](https://github.com/orgs/Termix-SSH/projects/2) for all planned features.
+See [Projects](https://github.com/orgs/Termix-SSH/projects/5) for all planned features.
 
 <br />
 
