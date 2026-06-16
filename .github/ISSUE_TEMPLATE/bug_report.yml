@@ -70,7 +70,6 @@ body:
         - label: I have examined logs and tried to find the issue
         - label: I have reviewed opened and closed issues
         - label: I have tried restarting the application
-        - label: I have read Known Issues (https://github.com/Termix-SSH/Support/issues/296)
 
   - type: textarea
     id: problem-description
