@@ -1,5 +1,8 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Discord
-    url: https://discord.gg/jVQGdvHDrf
-    about: Official Termix Discord server for general discussion (not recommended for support)
+blank_issues_enabled: false                                                                                                                                                                                                                                                                                       
+  contact_links:                                                                                                                                                                                                                                                                                                    
+    - name: Business / Priority Support                                                                                                                                                                                                                                                                             
+      url: mailto:mail@termix.site?subject=Priority%20Support%20Request                                                                                                                                                                                                                                             
+      about: For organizations or individuals wanting expedited support on an issue, contact us to discuss terms                                                                                                                                                                         
+    - name: Discord                                                                                                                                                                                                                                                                                                 
+      url: https://discord.gg/jVQGdvHDrf                                                                                                                                                                                                                                                                            
+      about: Official Termix Discord server for general discussion (not recommended for support)
