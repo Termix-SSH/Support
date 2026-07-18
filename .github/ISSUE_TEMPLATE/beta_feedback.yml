@@ -1,0 +1,112 @@
+name: Beta feedback
+description: Report a bug or share feedback about a weekly Termix beta build
+title: "[BETA]"
+labels: [beta]
+projects: ["Termix-SSH/2"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for testing a Termix beta build! Beta builds are automated weekly snapshots of active development, published as the `:beta` Docker tag and a rolling pre-release on GitHub. They are not stable and are expected to occasionally break. Know that even if a contributor does not respond to your request, that does not mean we did not see it. We will typically only respond once the issue is resolved or if we have a temporary solution.
+
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: Brief, descriptive title for the issue
+      placeholder: "Brief description of the issue."
+    validations:
+      required: true
+
+  - type: input
+    id: beta-build
+    attributes:
+      label: Beta Build
+      description: Which beta build are you running? Check your image tag (`:beta` or `:beta-x.x.x-beta.YYYYMMDD`) or the version shown in your User Profile tab.
+      placeholder: "e.g. 2.6.0-beta.20260720"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: How are you using Termix?
+      options:
+        - Website - Firefox
+        - Website - Safari
+        - Website - Chrome
+        - Website - Other Browser
+        - App - Windows
+        - App - Linux
+        - App - iOS
+        - App - Android
+        - N/A
+    validations:
+      required: true
+
+  - type: dropdown
+    id: server-installation-method
+    attributes:
+      label: Server Installation Method
+      description: How is the Termix server installed?
+      options:
+        - Docker
+        - Manual Build
+        - Proxmox (Community Scripts)
+        - N/A
+    validations:
+      required: true
+
+  - type: dropdown
+    id: regression
+    attributes:
+      label: Does this happen on the latest stable release too?
+      description: Have you checked whether this also happens on the current stable `:latest` release, or only on this beta build?
+      options:
+        - "Not tested on stable"
+        - "Yes, also happens on stable (likely not beta-specific)"
+        - "No, only happens on this beta build"
+        - "N/A, this is feedback on a new feature only present in beta"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: troubleshooting
+    attributes:
+      label: Troubleshooting
+      description: Please check all that apply
+      options:
+        - label: I am running the `:beta` tag or a dated beta pre-release, not stable
+        - label: I have examined logs and tried to find the issue
+        - label: I have restarted the application and the issue persists
+        - label: I understand beta builds are unstable and this may be a known issue
+
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: The Problem
+      description: Describe the issue in detail. Include as much information as possible with screenshots if applicable.
+      placeholder: "Describe what went wrong..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction-steps
+    attributes:
+      label: How to Reproduce
+      description: Use as few steps as possible to reproduce the issue
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Any other context about the problem
+      placeholder: "Add any other context about the problem here..."
