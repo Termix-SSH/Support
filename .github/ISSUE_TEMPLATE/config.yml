@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Business / Priority Support
-    url: mailto:mail@termix.site?subject=Priority%20Support%20Request
+    url: https://termix.site/contact
     about: For organizations or individuals wanting expedited support on an issue, contact us to discuss terms
   - name: Discord
     url: https://discord.gg/jVQGdvHDrf
