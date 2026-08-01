@@ -31,6 +31,8 @@ See [Projects](https://github.com/orgs/Termix-SSH/projects/5) for all planned fe
 
 ## Sponsors
 
+Interested in a paid placement to support development? Email [mail@termix.site](mailto:mail@termix.site).
+
 <div align="center">
 
 <br />
@@ -51,10 +53,6 @@ See [Projects](https://github.com/orgs/Termix-SSH/projects/5) for all planned fe
   <img src="https://sirv.sirv.com/website/screenshots/cloudflare/cloudflare-logo.png?w=300" height="40" alt="Cloudflare" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://tailscale.com/">
-  <img src="https://drive.google.com/uc?export=view&id=1lIxkJuX6M23bW-2FElhT0rQieTrzaVSL" height="40" alt="Tailscale" />
-</a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://akamai.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Akamai_logo.svg" height="40" alt="Akamai" />
 </a>
@@ -64,9 +62,12 @@ See [Projects](https://github.com/orgs/Termix-SSH/projects/5) for all planned fe
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://rackgenius.com/">
-  <img src="https://rackgenius.com/rackgenius-logo.png" height="40" alt="AWS" />
+  <img src="https://rackgenius.com/rackgenius-logo.png" height="40" alt="Rack Genius" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
+<a href="https://ginernet.com/">
+  <img src="https://ginernet.com/img/logo-web.png" height="40" alt="Ginernet" />
+</a>
 </div>
 
 <br />
