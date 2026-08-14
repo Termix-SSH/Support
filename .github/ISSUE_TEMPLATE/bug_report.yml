@@ -34,6 +34,9 @@ body:
         - App - Linux
         - App - iOS
         - App - Android
+        - CLI - Windows
+        - CLI - Linux
+        - CLI - macOS
         - Documentation
         - N/A
     validations:
@@ -60,6 +63,28 @@ body:
       placeholder: "e.g., 1.7.0"
     validations:
       required: true
+
+  - type: dropdown
+    id: cli-installation-method
+    attributes:
+      label: CLI Installation Method
+      description: Only fill this in if the bug is with the CLI
+      options:
+        - npm
+        - Standalone binary
+        - Built from source
+        - N/A
+    validations:
+      required: false
+
+  - type: input
+    id: cli-version
+    attributes:
+      label: CLI Version
+      description: Only fill this in if the bug is with the CLI. Run `termix --version` to find it.
+      placeholder: "e.g., 1.0.1"
+    validations:
+      required: false
 
   - type: checkboxes
     id: troubleshooting

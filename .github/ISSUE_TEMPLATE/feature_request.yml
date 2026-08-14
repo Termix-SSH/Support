@@ -29,6 +29,7 @@ body:
         - Web-app
         - Desktop app (Windows, Linux, and macOS)
         - Mobile app (iOS, Android)
+        - CLI (Windows, Linux, and macOS)
         - N/A
     validations:
       required: true

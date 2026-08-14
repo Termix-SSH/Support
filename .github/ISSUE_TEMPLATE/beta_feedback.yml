@@ -23,7 +23,7 @@ body:
     id: beta-build
     attributes:
       label: Beta Build
-      description: Which beta build are you running? Check your image tag (`:beta` or `:beta-x.x.x-beta.YYYYMMDD`) or the version shown in your User Profile tab.
+      description: Which beta build are you running? Check your image tag (`:beta` or `:beta-x.x.x-beta.YYYYMMDD`), the version shown in your User Profile tab, or `termix --version` for the CLI.
       placeholder: "e.g. 2.6.0-beta.20260720"
     validations:
       required: true
@@ -42,6 +42,9 @@ body:
         - App - Linux
         - App - iOS
         - App - Android
+        - CLI - Windows
+        - CLI - Linux
+        - CLI - macOS
         - N/A
     validations:
       required: true
@@ -63,7 +66,7 @@ body:
     id: regression
     attributes:
       label: Does this happen on the latest stable release too?
-      description: Have you checked whether this also happens on the current stable `:latest` release, or only on this beta build?
+      description: Have you checked whether this also happens on the current stable release, or only on this beta build?
       options:
         - "Not tested on stable"
         - "Yes, also happens on stable (likely not beta-specific)"
@@ -78,7 +81,7 @@ body:
       label: Troubleshooting
       description: Please check all that apply
       options:
-        - label: I am running the `:beta` tag or a dated beta pre-release, not stable
+        - label: I am running the `:beta` tag, a dated beta pre-release, or a CLI pre-release, not stable
         - label: I have examined logs and tried to find the issue
         - label: I have restarted the application and the issue persists
         - label: I understand beta builds are unstable and this may be a known issue

@@ -13,13 +13,17 @@
   <a href="https://donate.termix.site/"><img alt="Donate" src="https://img.shields.io/badge/Donate-Support%20Termix-F39044?style=flat&labelColor=1a1a1a" /></a>
 </p>
 
+<p>
+  <a href="https://donate.termix.site/"><img alt="Donations this month" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Donations%20this%20month&query=%24.fiatTotal&prefix=%24&url=https%3A%2F%2Ftermix.site%2Fdonation-snapshot.json&color=F39044&labelColor=1a1a1a" /></a>
+</p>
+
 </div>
 
 <br />
 
 ## Overview
 
-This repository is specifically for reporting all bugs and feature requests related to the Termix project. It encompasses the web, desktop, and mobile versions in one central place. The main Termix repo is located [here](https://github.com/Termix-SSH/Termix).
+This repository is specifically for reporting all bugs and feature requests related to the Termix project. It encompasses the web, desktop, mobile, and CLI versions in one central place. The main Termix repo is located [here](https://github.com/Termix-SSH/Termix), and the CLI repo is located [here](https://github.com/Termix-SSH/CLI).
 
 <br />
 
@@ -30,6 +34,8 @@ See [Projects](https://github.com/orgs/Termix-SSH/projects/5) for all planned fe
 <br />
 
 ## Sponsors
+
+Interested in a paid placement to support development? Email [mail@termix.site](mailto:mail@termix.site).
 
 <div align="center">
 
