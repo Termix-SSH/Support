@@ -24,12 +24,20 @@ body:
     id: platform
     attributes:
       label: Platform
-      description: What platform is this related to?
+      description: How are you using Termix?
       options:
-        - Web-app
-        - Desktop app (Windows, Linux, and macOS)
-        - Mobile app (iOS, Android)
-        - CLI (Windows, Linux, and macOS)
+        - Website - Firefox
+        - Website - Safari
+        - Website - Chrome
+        - Website - Other Browser
+        - Desktop App - Windows
+        - Desktop App - Linux
+        - Desktop App - macOS
+        - Mobile App - iOS
+        - Mobile App - Android
+        - CLI - Windows
+        - CLI - Linux
+        - CLI - macOS
         - N/A
     validations:
       required: true
