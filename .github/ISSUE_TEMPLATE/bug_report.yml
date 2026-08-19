@@ -30,14 +30,14 @@ body:
         - Website - Safari
         - Website - Chrome
         - Website - Other Browser
-        - App - Windows
-        - App - Linux
-        - App - iOS
-        - App - Android
+        - Desktop App - Windows
+        - Desktop App - Linux
+        - Desktop App - macOS
+        - Mobile App - iOS
+        - Mobile App - Android
         - CLI - Windows
         - CLI - Linux
         - CLI - macOS
-        - Documentation
         - N/A
     validations:
       required: true
