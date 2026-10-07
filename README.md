@@ -4,7 +4,7 @@
 
 <h1>Termix Support</h1>
 
-<p>Central bug reports and feature requests for the Termix project</p>
+<p>Report bugs and request features for every part of Termix</p>
 
 <p>
   <img src="https://img.shields.io/github/stars/Termix-SSH/Support?style=flat&label=Stars&color=F39044&labelColor=1a1a1a" />
@@ -23,13 +23,9 @@
 
 ## Overview
 
-This repository is specifically for reporting all bugs and feature requests related to the Termix project. It encompasses the web, desktop, mobile, and CLI versions in one central place. The main Termix repo is located [here](https://github.com/Termix-SSH/Termix), and the CLI repo is located [here](https://github.com/Termix-SSH/CLI).
+This is the one place to report bugs and request features for every part of Termix: the web, desktop and mobile apps, the [CLI](https://github.com/Termix-SSH/CLI) and every official plugin. The main repo is [Termix](https://github.com/Termix-SSH/Termix).
 
-<br />
-
-## Planned Features
-
-See [Projects](https://github.com/orgs/Termix-SSH/projects/5) for all planned features.
+Want to try Termix first? Use the [demo](https://demo.termix.site/), any username and password works.
 
 <br />
 
